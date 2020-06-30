@@ -1,0 +1,8 @@
+Working Virtualbox 1920x1080 60hz
+
+1st do in terminal:
+
+sudo apt-get install open-vm-tools-desktop
+
+
+then execute the .sh   
